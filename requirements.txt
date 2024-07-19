@@ -1,0 +1,16 @@
+streamlit
+streamlit-option-menu
+requests
+streamlit-lottie
+pillow
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+squarify
+mysql-connector-python
+streamlit-authenticator
+bcrypt
+pyyaml
+cloud-sql-python-connector
